@@ -1,0 +1,25 @@
+body{
+    background-image: url(https://scontent.fmnl15-1.fna.fbcdn.net/v/t39.30808-6/491350762_1233942428739005_2156227007780657687_n.jpg?stp=dst-jpg_tt6&cstp=mx1920x1054&ctp=s1920x1054&_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_ohc=komJO2MK0UwQ7kNvwFHeGfL&_nc_oc=AdpxODrWXOrwMqn4OWDXkVtFuKcfENBZcpqeSTQdJGu3Hy1PyEm7iXwaSaF6lgFxtJA&_nc_zt=23&_nc_ht=scontent.fmnl15-1.fna&_nc_gid=2ll0dkTWxicwrv_NgrpY-w&_nc_ss=78289&oh=00_AQOyle67fWRkQNXsCTsVS5Ty9C4jrwq255i8WrALC-SfJQ&oe=6AD73591); 
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+.container{
+    border-radius: 10px;
+    border-color: black;
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+}
+
+.col-3{
+    border-radius: 10px;
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+}
+.row{
+    gap: 5px;
+}
+
+.footer{
+    width: auto;
+    padding: 10px;
+    margin-top: 100px;
+
+}
